@@ -17,6 +17,6 @@
 <div>
   <a href = "mailto:klayton.al.souza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/klayton-a-souza/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/klayton-a-souza/klayton-a-souza/blob/output/github-contribution-grid-snake.svg)
  
 </div>
