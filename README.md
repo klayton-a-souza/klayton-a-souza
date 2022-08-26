@@ -7,6 +7,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayton-a-souza&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+</div>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klayton-a-souza&theme=dark">
+</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Klayton-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Klayton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
