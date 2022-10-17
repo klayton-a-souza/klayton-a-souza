@@ -7,10 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayton-a-souza&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-</div>
-  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klayton-a-souza&theme=dark">
-</div>
 
 
 <div style="display: inline_block"><br>
